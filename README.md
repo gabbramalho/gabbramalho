@@ -64,7 +64,7 @@
 
 ## 🚀 Projetos
 <p align="center">
-    <b>YogaCommerce:</b> Um projeto de e-commerce em desenvolvimento. Confira no meu GitHub: <a href="https://github.com/gabbramalho/YogaCommerce2" target="_blank">YogaCommerce</a>.
+    <b>YogaCommerce:</b> Um projeto de e-commerce em desenvolvimento. Confira no meu GitHub: <a href="https://github.com/henriquecea/YogaCommerce" target="_blank">YogaCommerce</a>.
 </p>
 
 <hr>
